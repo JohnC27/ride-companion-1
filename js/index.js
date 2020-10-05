@@ -1,5 +1,5 @@
 
-const dataURL = `../data.json`;
+const dataURL = `/js/data.json`;
 
 const {renderElement, createElement} = window.utils;
 
