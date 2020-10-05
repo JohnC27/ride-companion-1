@@ -1,5 +1,5 @@
 
-const dataURL = `/js/data.json`;
+const dataURL = `/ride-companion-1/js/data.json`;
 
 const {renderElement, createElement} = window.utils;
 
